@@ -1,6 +1,6 @@
 # openai
 
-A new Flutter project.
+Simple flutter app using DALLE api to generate images
 
 ## Getting Started
 
